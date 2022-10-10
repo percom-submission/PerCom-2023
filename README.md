@@ -70,7 +70,7 @@ Best performing parameter combindations for Enhanced CPC and other baselines in 
 | Myogym | 0.005 | 0 | 4096 | 0.0005 | 0.0001 |
 | PAMAP2 | 0.001 | 0 | 1024 | 0.0005 | 0.0001 |
 
-## Enhanced CPC
+## Enhanced CPC (MLP classifier)
  | Dataset | k | num_neg | num_conv_agg_layers | learning_rate | weight_decay | class. learning_rate | class. weight_decay |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | HHAR | 12 | 15 | 5 | 0.0001 | 0.0001 | 0.0005 | 0 |
